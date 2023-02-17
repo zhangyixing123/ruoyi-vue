@@ -1,0 +1,174 @@
+{
+  "code": 200,
+  "msg": "获取成功",
+  "data": {
+    "total": 15,
+    "rows": [
+      {
+        "name": "张思睿",
+        "phone": "133****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张子瑜",
+        "phone": "188****2341",
+        "email": "6025****10@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "1",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张宏远",
+        "phone": "166****4521",
+        "email": "7089****55@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "1",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张天成",
+        "phone": "153****2341",
+        "email": "5912****43@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张意远",
+        "phone": "177****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张志尚",
+        "phone": "133****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "1",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "许智刚",
+        "phone": "133****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "高达",
+        "phone": "133****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "陈天空",
+        "phone": "133****7321",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "1",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张思睿",
+        "phone": "133****5823",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "1",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张思睿",
+        "phone": "133****3794",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "1",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "张三",
+        "phone": "133****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "李四",
+        "phone": "133****7089",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "王五",
+        "phone": "133****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "0",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      },
+      {
+        "name": "朱六",
+        "phone": "133****2341",
+        "email": "8930****21@qq.com",
+        "idNo": "5137011997****5912",
+        "personAuth": "1",
+        "invitationCode": "123",
+        "ukey": "xxxxxx",
+        "userType": "0",
+        "joinTime": ""
+      }
+    ]
+  }
+}

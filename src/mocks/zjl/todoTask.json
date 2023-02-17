@@ -1,0 +1,44 @@
+{
+  "code": 200,
+  "msg": "获取成功",
+  "data": {
+    "total": 5,
+    "rows": [
+      {
+        "businessType": "云信开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "0",
+        "taskTime": "2021-10-19",
+        "remark": "待处理"
+      },
+      {
+        "businessType": "云信融资",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "1",
+        "taskTime": "2021-10-22",
+        "remark": "待处理"
+      },
+      {
+        "businessType": "民商开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "0",
+        "taskTime": "2021-10-24",
+        "remark": "待处理,等到流程开启"
+      },
+      {
+        "businessType": "民商融资",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "1",
+        "taskTime": "2021-11-12",
+        "remark": "等待下一步审核人员审核"
+      },
+      {
+        "businessType": "云信开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "0",
+        "taskTime": "2021-11-13",
+        "remark": "待处理"
+      }
+    ]
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "code": 200,
+  "msg": "获取成功",
+  "data": {
+    "total": 5,
+    "rows": [
+      {
+        "businessType": "云信开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "2",
+        "taskTime": "2021-10-19",
+        "dealTime": "2021-10-20",
+        "remark": "已完成"
+      },
+      {
+        "businessType": "云信开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "4",
+        "taskTime": "2021-10-22",
+        "dealTime": "2021-10-24",
+        "remark": "不予处理"
+      },
+      {
+        "businessType": "云信开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "2",
+        "taskTime": "2021-10-24",
+        "dealTime": "2021-10-26",
+        "remark": "处理完成"
+      },
+      {
+        "businessType": "云信开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "3",
+        "taskTime": "2021-11-12",
+        "dealTime": "2021-11-14",
+        "remark": "任务已上报风险"
+      },
+      {
+        "businessType": "云信开立",
+        "taskDesc": "一飞冲天股份有限公司",
+        "status": "2",
+        "taskTime": "2021-11-13",
+        "dealTime": "2021-11-15",
+        "remark": "已完成"
+      }
+    ]
+  }
+}
